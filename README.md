@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Bookavida**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Flutter**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **umurita37@gmail.com**
 
