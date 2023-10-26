@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Flutter**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything about Tech**
 
 - 📫 How to reach me **umurita37@gmail.com**
 
