@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/u_muton_i" target="blank"><img src="https://img.shields.io/twitter/follow/u_muton_i?logo=twitter&style=for-the-badge" alt="u_muton_i" /></a> </p>
 
-- 🔭 I’m currently working on **Bookavida**
+- 🔭 I’m currently working on **Fosec**
 
-- 🌱 I’m currently learning **Python, Flutter**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **anything about Tech**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **umurita37@gmail.com**
 
@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/u_muton_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="u_muton_i" height="30" width="40" /></a>
 <a href="https://instagram.com/u.muton.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.muton.i" height="30" width="40" /></a>
-<a href="https://dribbble.com/u-muton-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="u-muton-i" height="30" width="40" /></a>
+<!-- <a href="https://dribbble.com/u-muton-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="u-muton-i" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umurita37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umurita37" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umutoni-rita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umutoni-rita" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/umutoni-rita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umutoni-rita" height="30" width="40" /></a> -->
 </p>
 
 
