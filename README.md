@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/u_muton_i" target="blank"><img src="https://img.shields.io/twitter/follow/u_muton_i?logo=twitter&style=for-the-badge" alt="u_muton_i" /></a> </p>
 
-- 🔭 I’m currently working on **Fosec**
+- 🔭 I’m currently working on **Fosec, Bookavida, ...**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **Frontend Development**
 
