@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rita Umutoni</h1>
 <h3 align="center">A passionate, young software engineer from Rwanda, Africa</h3>
 
-<p align="left"> <a href="https://twitter.com/u_muton_i" target="blank"><img src="https://img.shields.io/twitter/follow/u_muton_i?logo=twitter&style=for-the-badge" alt="u_muton_i" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutoni-rita&label=Profile%20views&color=0e75b6&style=flat" alt="umutoni-rita" /> </p>
 
-- 🔭 I’m currently working on **Fosec, Bookavida, ...**
+- 🔭 I’m currently working on [Bookavida](https://bookavida.vercel.app/)
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Privacy Policing**
 
-- 💬 Ask me about **Frontend Development**
+- 👨‍💻 All of my projects are available [here](https://github.com/Umutoni-Rita)
+
+- 📝 I regularly write articles on [medium](https://medium.com/@umurita37)
+
+- 💬 Ask me about **Mobile and Web Development**
 
 - 📫 How to reach me **umurita37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/u_muton_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="u_muton_i" height="30" width="40" /></a>
-<a href="https://instagram.com/u.muton.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.muton.i" height="30" width="40" /></a>
-<!-- <a href="https://dribbble.com/u-muton-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="u-muton-i" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umurita37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umurita37" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umutoni-rita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umutoni-rita" height="30" width="40" /></a> -->
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutoni-rita&show_icons=true&locale=en&layout=compact" alt="umutoni-rita" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutoni-rita&" alt="umutoni-rita" /></p>
